@@ -1,0 +1,1 @@
+{"productList":[{"type":"Products.Apple","price":300,"title":"apple","color":"red"},{"type":"Products.Orange","price":500,"title":"orange","withBones":false}],"address":{"city":"Moscow","street":"Tverskaya","building":12,"floor":1,"apartment":2}}
